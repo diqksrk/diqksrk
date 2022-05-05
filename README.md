@@ -23,7 +23,7 @@ Here are some ideas to get you started:
 
 📫 How to reach me: diqksrk123@naver.com
 
-🥕 I'm currently working on [Contentree Joongang] as a back-end developer.
+😄 I'm currently working on [Contentree Joongang] as a back-end developer.
 <hr>
 <div align=center>
   
