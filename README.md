@@ -27,7 +27,7 @@ Here are some ideas to get you started:
 <hr>
 <div align=center>
   
-  [![MinJun's github stats](https://github-readme-stats.vercel.app/api?username=diqksrk&show_icons=true)]
+  ![MinJun's github stats](https://github-readme-stats.vercel.app/api?username=diqksrk&show_icons=true)
   
   [![portfolio](https://img.shields.io/badge/Portfolio-HERE-9cf)]
   ![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fdiqksrk)
