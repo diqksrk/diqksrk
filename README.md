@@ -26,6 +26,8 @@ Here are some ideas to get you started:
 😄 I'm currently working on [Contentree Joongang] as a back-end developer.
 
 💬 I'm currently keeping a [Blog](https://ptrsr.tistory.com/)
+
+one day one commit start!
 <hr>
 <div align=center>
   
