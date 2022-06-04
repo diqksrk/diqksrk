@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 
 ### Welcome to MinJun Kang's Github! 👋
 
-🌱 I'm interested in Spring boot, Jpa, Oracle, Aws.
+🌱 I'm interested in Spring boot, msa, Oracle, architecture.
 
 📫 How to reach me: diqksrk123@naver.com
 
