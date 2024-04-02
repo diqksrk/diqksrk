@@ -29,7 +29,7 @@ Here are some ideas to get you started:
 
 one day one commit start!
 <hr>
-<div align=center>
+<!-- <div align=center>
   
   ![MinJun's github stats](https://github-readme-stats.vercel.app/api?username=diqksrk&show_icons=true)
   
@@ -37,4 +37,4 @@ one day one commit start!
   ![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fdiqksrk)
   ![social](https://img.shields.io/github/followers/diqksrk?style=social)
   
-</div>
+</div> -->
