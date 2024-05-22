@@ -58,6 +58,25 @@ Here are some ideas to get you started:
 
 
 
+
+
+## 소셜 링크
+- [LinkedIn](https://www.linkedin.com/in/username/)
+- [Twitter](https://twitter.com/username)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 <img src="https://capsule-render.vercel.app/api?color=gradient&type=waving&height=200&animation=twinkling&text=MinJun Kang&fontAlignY=30&fontSize=50" width="100%" />
 
 ### Welcome to MinJun Kang's Github! 👋
