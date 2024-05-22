@@ -21,6 +21,12 @@ Here are some ideas to get you started:
 ![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 
+## 주요 프로젝트
+- [**Project 1**](https://github.com/username/project1): 설명 (사용된 기술: Java, Spring Boot)
+- [**Project 2**](https://github.com/username/project2): 설명 (사용된 기술: React, Node.js)
+
+
+
 
 
 
