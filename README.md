@@ -50,6 +50,12 @@ Here are some ideas to get you started:
 
 
 
+## 최근 블로그 포스트
+- [블로그 포스트 제목 1](https://example.com/blog1)
+- [블로그 포스트 제목 2](https://example.com/blog2)
+
+
+
 
 
 <img src="https://capsule-render.vercel.app/api?color=gradient&type=waving&height=200&animation=twinkling&text=MinJun Kang&fontAlignY=30&fontSize=50" width="100%" />
