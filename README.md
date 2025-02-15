@@ -15,6 +15,10 @@ Here are some ideas to get you started:
 -->
 
 
+<a href="https://hhpluscertificateofcompletion.oopy.io/">
+  <img src="https://static.spartacodingclub.kr/hanghae99/plus/completion/badge_black.svg" />
+</a>
+
 <!--
 
 # 안녕하세요, 저는 백엔드개발자 강민준입니다 !
